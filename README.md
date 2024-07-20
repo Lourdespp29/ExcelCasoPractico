@@ -8,6 +8,6 @@ Transformar y visualizar los datos de manera que permita a los propietarios de t
 <img width="457" alt="image" src="https://github.com/user-attachments/assets/7b90b22e-3aa0-4908-97eb-79d095e31471">
 
 -La categoría de belleza representa el menor número de transacciones/ventas.
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/8b5cccd5-8a1d-4540-b9d6-1231771555f3">
 
 -El género femenino representa un porcentaje minimamente mayor en el total de ventas.
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/9c4324b4-c44f-459c-a217-a9ea377df00b">
